@@ -3,7 +3,8 @@
 void main()
 {
 	int x;
-	printf("Hello Github!\n\nPlease enter a number: ");
+	printf("Hello Github!\n\n");
+	printf("Please enter a number: ");
 	scanf("%d", &x);
 	printf("You entered %d.\n\n", x);
 }
